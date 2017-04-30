@@ -1,2 +1,2 @@
 pierwszy
-branch master linia
+branch master linia , branch1 - wpis
